@@ -1,0 +1,17 @@
+.Footer{
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color:lightsalmon;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+
+.Footer a{
+    text-decoration: none;  
+}

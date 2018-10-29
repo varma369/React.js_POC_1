@@ -1,0 +1,37 @@
+{
+    "UserDetails": [
+        {
+          "Name": "phani",
+          "Age": "27",
+          "Address": "Bhimavaram",
+          "Contact":"8019928381"
+        },
+        {
+            "Name": "satish",
+            "Age": "26",
+            "Address": "Bhimavaram",
+            "Contact":8499993456
+        }
+    ],
+
+    "ProductDetails": [
+          {
+            "Name": "phani",
+            "ProductName": "Toothpaste",
+            "ProductN0": 1234,
+            "ExpiryDate":"Jun-2021"
+          }, 
+          {
+            "Name": "phani",
+            "ProductName": "soap",
+            "ProductN0": 1235,
+            "ExpiryDate":"Jun-2021"
+          },
+          {
+            "Name": "satish",
+            "ProductName": "soap",
+            "ProductN0": 1236,
+            "ExpiryDate":"Jun-2025"
+          }
+    ]
+}
